@@ -1,7 +1,7 @@
 # Ecommerce-Webpage
 
 
-Link to project: 
+Link to project: https://brittanytamra.github.io/Ecommerce-Webpage/
 
 TECH USED: HTML, CSS
 
